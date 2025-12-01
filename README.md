@@ -1,2 +1,2 @@
-# JUEGO-GIC
-proyecto Gramaticas Formales
+# Proyecto final, sistema aeroportuario 
+Progra 2
